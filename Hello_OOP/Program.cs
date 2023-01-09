@@ -10,7 +10,11 @@ namespace Hello_OOP
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine();
+            Console.WriteLine("Hello Object Oriented Programming!");
+            Console.WriteLine();
+
+            Console.ReadKey(true);
 
 
         }
